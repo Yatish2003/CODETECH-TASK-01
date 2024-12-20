@@ -1,0 +1,58 @@
+{
+  "credentials": [
+    {
+      "id": "2b4d",
+      "userName": "yatish2003",
+      "userEmail": "yat@123",
+      "userPass": "yat123"
+    },
+    {
+      "id": "d77c",
+      "userName": "yatish2003",
+      "userEmail": "yat@123",
+      "userPass": "yat123"
+    },
+    {
+      "id": "8f54",
+      "userName": "hasrh22",
+      "userEmail": "harsh@123",
+      "userPass": "harsh12"
+    },
+    {
+      "id": "226d",
+      "userName": "savithri_kdama",
+      "userEmail": "savithri@123",
+      "userPass": "savithri"
+    },
+    {
+      "id": "03a4",
+      "userName": "AakashDubey",
+      "userEmail": "aakAsh@12345",
+      "userPass": "098"
+    },
+    {
+      "id": "aa2c",
+      "userName": "Aayus Vishwa",
+      "userEmail": "aayus@visha",
+      "userPass": "aayush"
+    },
+    {
+      "id": "9c94",
+      "userName": "kushal_Amin",
+      "userEmail": "kush@shetty",
+      "userPass": "kushal"
+    },
+    {
+      "id": "8cae",
+      "userName": "Vishal-parab",
+      "userEmail": "vishuparab@123",
+      "userPass": "vishuuu"
+    },
+    {
+      "id": "a284",
+      "userName": "Ameykadam",
+      "userEmail": "ameky@123",
+      "userPass": "0987"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background and container styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    color: #007BFF;
+    margin-bottom: 20px;
+}
+
+/* Button styles */
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Container for admin options */
+.product-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Product Details Section */
+.product-details-conatiner {
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    width: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-details-conatiner input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.product-details-conatiner button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* Delete Product Section */
+#delete {
+    margin-top: 30px;
+}
+
+#delete .border {
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    width: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#delete input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Container for buttons (Add and Delete) */
+button + a {
+    text-decoration: none;
+    color: #007BFF;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 16px;
+}
